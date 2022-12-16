@@ -1,0 +1,21 @@
+REM Change browser when someone walks in on you
+REM AUTHOR OokamiKami
+REM DESCRIPTION Changes the browser when someone walks in on you
+DELAY 100
+WINDOWS r
+DELAY 100
+STRING chrome
+DELAY 100
+ENTER
+DELAY 500
+CTRL t
+DELAY 200
+STRING https://www.youtube.com/watch?v=0n4f-VDjOBE
+DELAY 100
+ENTER
+DELAY 200
+F11
+DELAY 1000
+STRING K
+DELAY 1000
+STRING F
